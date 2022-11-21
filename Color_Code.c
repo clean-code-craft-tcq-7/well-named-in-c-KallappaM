@@ -1,4 +1,4 @@
-scs#include <stdio.h>
+#include <stdio.h>
 #include <assert.h>
 #include "Color_Code.h"
 
